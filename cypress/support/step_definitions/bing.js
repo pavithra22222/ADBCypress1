@@ -28,5 +28,5 @@ When("click on search icon",()=>{
 })
 
 Then("Search result should be displayed",()=>{
-    cy.get('').click()
+    cy.get
 })
